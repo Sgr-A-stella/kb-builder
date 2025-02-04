@@ -19,7 +19,7 @@ Current mainstream knowledge representations of genAI systems (as vectorsemantic
   - M² paradigm /mental patterns & models/
   - ... etc
 - Input: documents with some file formats /pdf, epub,... etc./
-- Persistent store to background storage by store-manager(s) /maybe multiparadigm DB server or multple DB server with different paradigms: relation, vector, graph,... etc./
+- Persistent store to background storage by store-manager(s) /maybe multiparadigm DB server or multple DB servers with different paradigms: relation, vector, graph,... etc./
 - REST endpoint for API with functionalities update, upload and several queries
 
 ### Solution
