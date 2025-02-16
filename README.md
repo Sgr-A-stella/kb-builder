@@ -23,26 +23,26 @@ Current mainstream knowledge representations of genAI systems (as vectorsemantic
 - REST endpoint for API with functionalities update, upload and several queries
 
 ### Solution
-...
+Vision, architecture and implementation details...
 
-#### Conception
-Principles, followed Randall Davis's roles of knowledge representations:
+#### Vision
+Principles (following Randall Davis's roles of knowledge representations):
 - prediction model, that is simulation mechanism
 - ontology, that is concept-system
 - formal logics, that is reasoning ruleset
 - language, that is communication/narrative-thought tool/system
 - computational model, that is execution/runtime/resource-provider architecture/environment/mechanism
 
-Issues, followed Ron Brachman:
+Issues (following Ron Brachman):
 - implementation paradigm/method
 - meta-representation mechanism
 - invompleteness, uncertainty
 - universalities and existentialities (necessity and opportunity)
 - fact changes tracking (non-monotonic reasoning)
-- pragmatic expressiveness
+- practical/convenient expressiveness
 - amortization effectiveness
 
-Knowledge representation forms / metaphores (with examples):
+Knowledge representation constructions / metaphores (with examples):
 - Abstract space
   - Continuous vectorspace (word embedding)
   - Discrete topologic space (knowledge graph)
@@ -67,7 +67,7 @@ Subtiers: any HTTP client (no implemented UI) - REST endpoint controllers - serv
 ...
 
 #### Implementation details
-...
+Business functions (REST EPs), KR operations/integrations and data model(s)...
 
 ##### Business functions (REST endpoints)
 ...
