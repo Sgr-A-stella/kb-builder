@@ -62,6 +62,7 @@ Knowledge representation forms / metaphores (with examples):
 
 #### Architecture
 Multitier: client - FE - BE - EIS
+
 Subtiers: any HTTP client (no implemented UI) - REST endpoint controllers - services - persistence logic (DAO) - persistence server (DB)
 ...
 
