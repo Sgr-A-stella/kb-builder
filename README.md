@@ -27,20 +27,20 @@ Vision, architecture and implementation details...
 
 #### Vision
 Principles (following Randall Davis's roles of knowledge representations):
-- prediction model, that is simulation mechanism
+- predictive model, that is simulation mechanism
 - ontology, that is concept-system
 - formal logics, that is reasoning ruleset
 - language, that is communication/narrative-thought tool/system
 - computational model, that is execution/runtime/resource-provider architecture/environment/mechanism
 
 Issues (following Ron Brachman):
-- implementation paradigm/method
-- meta-representation mechanism
-- invompleteness, uncertainty
-- universalities and existentialities (necessity and opportunity)
-- fact changes tracking (non-monotonic reasoning)
-- practical/convenient expressiveness
-- amortization effectiveness
+- implementation paradigm/method: ...
+- meta-representation mechanism: ...
+- incompleteness, uncertainty: ...
+- universalities and existentialities (necessity and opportunity): ...
+- fact changes tracking (non-monotonic reasoning): ...
+- practical/convenient expressiveness: ...
+- amortization effectiveness: ...
 
 Knowledge representation constructions / metaphores (with examples):
 - Abstract space
